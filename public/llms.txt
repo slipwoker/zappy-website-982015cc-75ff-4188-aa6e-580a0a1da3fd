@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://-982015cc.zappy5.app
+https://example.com
 פלטפורמת תוכן ייחודית המשלבת מחזורי חיים, לוחות שנה ועיתונות תרבותית. היכנסו לעולם שבו כל רגע הופך לסיפור מרתק עם מיטב המומחים בתחום.
 
 ### אירועים
-https://-982015cc.zappy5.app/events
+https://example.com/events
 מחפשים אירועי תרבות, הרצאות ומפגשים ברוח התקופה? הצטרפו ללוח האירועים העשיר שלנו וגלו חוויות שמתכתבות עם מקצב הזמן הייחודי.
 
 ### מגזין
-https://-982015cc.zappy5.app/magazine
+https://example.com/magazine
 מגזין דיגיטלי המביא ראיונות עומק, מאמרי פרשנות ויצירות ספרותיות על ציר הזמן. קראו, שתפו והעמיקו בכל מה שמחבר בין עבר, הווה ועתיד.
 
 ### אודות
-https://-982015cc.zappy5.app/about
+https://example.com/about
 מאחורי &#39;עיתים וזמנים&#39; עומד צוות יוצר, חוקר ועיתונאי המחויב לתיעוד מחזורי החיים. למה אנחנו קיימים? גלו את החזון שמניע כל מילה וכל פרויקט.
 
 ### צור קשר
-https://-982015cc.zappy5.app/contact
+https://example.com/contact
 יש לכם סיפור לספר או רעיון לשתף פעולה? צרו איתנו קשר עוד היום והפכו לחלק מרשת יוצרי התוכן המובילה בתחום מחזורי הזמן והתרבות.
 
 ### תודה רבה
-https://-982015cc.zappy5.app/thank-you
+https://example.com/thank-you
 עיתים וזמנים - תודה רבה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-982015cc.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-982015cc.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-982015cc.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-982015cc.zappy5.app/contact
-- Endpoint: https://-982015cc.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -82,6 +82,6 @@ Media / Publishing
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-982015cc.zappy5.app/sitemap.xml
-- Robots: https://-982015cc.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-982015cc.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
