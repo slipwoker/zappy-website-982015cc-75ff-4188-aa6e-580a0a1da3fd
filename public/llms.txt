@@ -1,0 +1,87 @@
+# עיתים וזמנים — Generative Engine Optimization Map
+
+> A brand named 'עיתים וזמנים' (Times and Seasons), which evokes themes of time, periods, cycles, and seasons. The name carries a poetic, literary, and possibly cultural or journalistic tone, suggesting content related to current events, history, calendars, or temporal themes.
+
+---
+
+## Pages
+
+### בית
+https://-982015cc.zappy5.app
+פלטפורמת תוכן ייחודית המשלבת מחזורי חיים, לוחות שנה ועיתונות תרבותית. היכנסו לעולם שבו כל רגע הופך לסיפור מרתק עם מיטב המומחים בתחום.
+
+### אירועים
+https://-982015cc.zappy5.app/events
+מחפשים אירועי תרבות, הרצאות ומפגשים ברוח התקופה? הצטרפו ללוח האירועים העשיר שלנו וגלו חוויות שמתכתבות עם מקצב הזמן הייחודי.
+
+### מגזין
+https://-982015cc.zappy5.app/magazine
+מגזין דיגיטלי המביא ראיונות עומק, מאמרי פרשנות ויצירות ספרותיות על ציר הזמן. קראו, שתפו והעמיקו בכל מה שמחבר בין עבר, הווה ועתיד.
+
+### אודות
+https://-982015cc.zappy5.app/about
+מאחורי &#39;עיתים וזמנים&#39; עומד צוות יוצר, חוקר ועיתונאי המחויב לתיעוד מחזורי החיים. למה אנחנו קיימים? גלו את החזון שמניע כל מילה וכל פרויקט.
+
+### צור קשר
+https://-982015cc.zappy5.app/contact
+יש לכם סיפור לספר או רעיון לשתף פעולה? צרו איתנו קשר עוד היום והפכו לחלק מרשת יוצרי התוכן המובילה בתחום מחזורי הזמן והתרבות.
+
+### תודה רבה
+https://-982015cc.zappy5.app/thank-you
+עיתים וזמנים - תודה רבה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-982015cc.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-982015cc.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-982015cc.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-982015cc.zappy5.app/contact
+- Endpoint: https://-982015cc.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עיתים וזמנים
+A brand named 'עיתים וזמנים' (Times and Seasons), which evokes themes of time, periods, cycles, and seasons. The name carries a poetic, literary, and possibly cultural or journalistic tone, suggesting content related to current events, history, calendars, or temporal themes.
+
+## Target Audience
+- חובבי אירועים
+- מתכנני פעילויות למשפחות
+- מארגני אירועים מקומיים
+- חסידי קרלין סטולין
+
+## Industry
+Media / Publishing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-982015cc.zappy5.app/sitemap.xml
+- Robots: https://-982015cc.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-982015cc.zappy5.app/llms-full.txt
